@@ -16,6 +16,9 @@ function App() {
       <footer>
         <MyFooter />
       </footer>
+      <footer>
+        <MyFooter />
+      </footer>
     </>
   );
 }
